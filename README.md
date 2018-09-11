@@ -1,4 +1,8 @@
-# manual
+# vue-simple-tasks
+
+Simple app using Vue with Bootstrap 4.
+
+####Includes Vuex showcase pattern and a simple router example.
 
 ## Project setup
 ```
